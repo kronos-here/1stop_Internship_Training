@@ -1,1 +1,3 @@
 # 1stop_Internship_Training
+I have uploaded the Google Colab Links for the three projects I completed on AI during the Internship tenure. Please check it in the Colab_Links.md file.
+Thank you...
